@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117464464199",
+    "project_id": "stipendiya-e97db",
+    "storage_bucket": "stipendiya-e97db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117464464199:android:0a847074eaf7b7191eaa62",
+        "android_client_info": {
+          "package_name": "com.example.grant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZGLlNK7svdSsWn1OB5jSn3NPqlvOoGPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
